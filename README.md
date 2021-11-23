@@ -11,5 +11,5 @@ This is a simple chart application made with Socket.io, React and NodeJs
 2. npm install.
 3. npm start
 
-# You are now able to start using the app to chat on different browsers.
+-- You are now able to start using the app to chat on different browsers.
 # Enjoy...!
